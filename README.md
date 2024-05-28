@@ -54,3 +54,7 @@ code index.html
 I started by looking at the exemple and to separate the parts by blocks  so that I could try and write then on code using HTML.
 
 I also wrote the minimun texte in order to have an understanding of what goes where. This will count as a first step, add, commit and push to make sure the changes are saved.
+
+Used w3c validator in order to correct most common mistakes, went to original article in order to get the images used for the logo and the photo.
+
+Added to stage, commited and pushed.
