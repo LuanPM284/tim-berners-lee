@@ -9,9 +9,9 @@ The following are some of my steps while completing the project.
 
 ## Setting Github
 
-- Create a repository with the correct name: [tim-berners-lee](https://github.com/LuanPM284/tim-berners-lee)
-- Add a **README** file and comment on the procect: README.md
-- Create an *images* folder:
+### Create a repository with the correct name: [tim-berners-lee](https://github.com/LuanPM284/tim-berners-lee)
+### Add a **README** file and comment on the procect: README.md
+### Create an *images* folder:
 
   On local machine
   ```bash
@@ -40,4 +40,17 @@ The following are some of my steps while completing the project.
   # push back to the github repository online
   git push
   ```
+### Create an index.html and a styles.css
 
+On local machine:
+
+```bash
+touch index.html
+touch styles.css
+code index.html
+```
+### HTML
+
+I started by looking at the exemple and to separate the parts by blocks  so that I could try and write then on code using HTML.
+
+I also wrote the minimun texte in order to have an understanding of what goes where. This will count as a first step, add, commit and push to make sure the changes are saved.
