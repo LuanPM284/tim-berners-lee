@@ -162,20 +162,20 @@ body {
 
 nav {
     font-family: sans-serif;
-    display: flex;
-    flex-wrap: nowrap;
     background-color: #25282b;
-    justify-content: space-between;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: start;
     align-items: center;
-    align-content: center;
-    padding: 10px 15px;
+    flex-wrap: nowrap;
 }
 
-nav img {
+
+/* nav img {
     display: flex;
     flex-basis: auto;
     align-content: start;
-}
+} */
 
 nav>li,
 nav>a {
@@ -186,12 +186,12 @@ nav>a {
     text-decoration: none;
 }
 
-nav button {
+.nav_bar_button {
     background-color: red;
     padding: 5px 10px;
     border-radius: 10px;
     color: white;
-    justify-content: flex-end;
+    justify-items: end;
 }
 
 
